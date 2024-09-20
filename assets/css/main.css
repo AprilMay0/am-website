@@ -3308,7 +3308,7 @@ body.is-preload .wrapper.fade > .inner {
 @media screen and (max-width: 1280px) {
   #sidebar + #wrapper {
     margin-left: 0;
-    padding-top: 3.5em;
+    padding-top: 3em;
   }
 }
 
@@ -3779,4 +3779,12 @@ body.is-preload #sidebar nav ul li {
   #intro {
     background-attachment: scroll;
   }
+}
+
+#search div {
+  padding-top: 1em;
+}
+
+#main div {
+  padding-bottom: 2em;
 }
